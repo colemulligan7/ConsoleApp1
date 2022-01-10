@@ -1,7 +1,7 @@
 using Xunit;
 using System;
 using System.Collections.Generic;
-using ClassLibrary1;
+using Library;
 
 namespace UnitTests
 {

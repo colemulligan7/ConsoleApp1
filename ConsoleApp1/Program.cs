@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 using System.Collections.Generic;
-using ClassLibrary1;
+using Library;
 
 Console.WriteLine("UppserBound:");
 string maxNumInput = Console.ReadLine();
